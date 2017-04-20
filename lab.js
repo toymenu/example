@@ -1,4 +1,4 @@
-//John Johnovich
+//John Johnovich in git
 /*
 var name = 'John';
 var surname = 'Johnovich';
