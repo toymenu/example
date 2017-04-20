@@ -7,3 +7,7 @@
 	}
 	foo($str);
 	echo $num;
+	
+	function my(){
+		echo 'this is mine';
+	}
